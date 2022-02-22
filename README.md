@@ -4,7 +4,7 @@ I am Yousef, or WJIU, A front-end learner!!!
 
 ## Contact me
 
-- Blog: [Blog Portal](https://github.com/WJIU/blog)
+- Blog: [Blog Portal](https://github.com/WJIU/wjiu.github.io)
 
 - Email: sjhp59@qq.com
 
