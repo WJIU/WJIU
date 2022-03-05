@@ -8,7 +8,7 @@ I am Yousef, or WJIU, A front-end learner!!!
 
 - Email: sjhp59@qq.com
 
-- QQ：[Contact me with QQ](http://wpa.qq.com/msgrd?v=3&uin=3135675279&site=qq&menu=yes target="_blank“)
+- QQ：[Contact me with QQ](http://wpa.qq.com/msgrd?v=3&uin=3135675279&site=qq&menu=yes)
 
 ## Teck Stack
 
